@@ -5,37 +5,6 @@ A production-ready API for detecting and analyzing scam messages with intelligen
 
 ---
 
-## 🚀 Quick Deploy (Choose One)
-
-### Option 1: Render.com (Recommended)
-1. Push this repo to GitHub
-2. Go to https://render.com
-3. New Web Service → Connect GitHub
-4. Deploy!
-5. Get URL: `https://honeypot-api-guvi.onrender.com`
-
-### Option 2: Railway.app
-1. Push this repo to GitHub
-2. Go to https://railway.app
-3. Deploy from GitHub → Select repo
-4. Generate domain
-5. Get URL: `https://honeypot-api-guvi.up.railway.app`
-
-### Option 3: Vercel
-```bash
-npm i -g vercel
-vercel --prod
-```
-
----
-
-## 📝 Hackathon Submission
-
-**Deployed URL**: Your clean URL from above  
-**API KEY**: `guvi-hackathon-2026-key`
-
----
-
 ## 🧪 Test Your API
 
 ```bash
@@ -111,21 +80,6 @@ Main scam analysis endpoint
 
 ---
 
-## ⏰ Important Dates
 
-**Submission Deadline**: February 5, 2026, 11:59:00 PM
-
-Make sure your API is:
-- ✅ Deployed and accessible 24/7
-- ✅ Using the correct API key
-- ✅ Returning proper JSON responses
-
----
-
-## 🆘 Need Help?
-
-Check `DEPLOY_NOW.md` for step-by-step deployment instructions!
-
----
 
 **Built for GUVI-HCL Hackathon 2026** 🏆
